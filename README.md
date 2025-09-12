@@ -17,6 +17,11 @@ I’m excited to pursue roles in **Advanced Analytics** or **Data Analytics** wh
 
 Feel free to explore my repositories to see my work! I’m always eager to connect with fellow learners and professionals.
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nc-2074/nc-2074/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nc-2074/nc-2074/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nc-2074/nc-2074/output/pacman-contribution-graph.svg">
+</picture>
 
 <!--
 **nc-2074/nc-2074** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
