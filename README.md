@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# Hi, I’m Nicole! 👋
+## Hi, I’m Nicole! 👋
 
 I’m a 4th year Bachelor of Honours Science student specializing in **Data Science** with a concentration in Big Data and a management option. I’m passionate about applying advanced analytics and data-driven insights to solve real-world problems.
 
