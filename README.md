@@ -1,28 +1,3 @@
-## Hi, I’m Nicole! 👋
-
-I’m a 4th year Bachelor of Honours Science student specializing in **Data Science** with a concentration in Big Data and a management option. I’m passionate about applying advanced analytics and data-driven insights to solve real-world problems.
-
-## 🛠️ Skills & Tools  
-<p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,java,r,c,sqlserver,excel,powerbi,databricks,hadoop,hive,spark,rstudio,jupyter,intellij,mssql" height="40" alt="Skills Icons"/>
-</p>
-
-## 🎓 Academic & Professional Highlights  
-- Instructional Assistant for Python (Data Structures) and Java (Object-Oriented Programming)  
-- Data Administrator internship (Summer 2025)  
-- Dean’s Honor Roll (2022 - 2025)  
-
-## 🎯 Career Goals  
-I’m excited to pursue roles in **Advanced Analytics** or **Data Analytics** where I can grow my skills and contribute to impactful data projects.
-
-Feel free to explore my repositories to see my work! I’m always eager to connect with fellow learners and professionals.
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nc-2074/nc-2074/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nc-2074/nc-2074/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nc-2074/nc-2074/output/pacman-contribution-graph.svg">
-</picture>
-
 <!--
 **nc-2074/nc-2074** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
