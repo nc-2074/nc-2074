@@ -13,11 +13,15 @@ Currently, I am expanding my skills in **big data frameworks and distributed com
 ---
 
 ### Technical Skills  
+- **Programming & Analysis:** Python, R, Java, C, SQL
+- **Databases & Management:** Microsoft SQL Server, SQL Server Management Studio, Excel
+- **Tools & IDEs:** Jupyter Notebook, RStudio, IntelliJ IDEA, VSCode, Power BI 
+<!--
 - **Programming & Analysis:** Python, R, Java, C, SQL  
 - **Big Data & Cloud Tools:** Hadoop, Spark, Hive, Pig, HBase, Zookeeper, Yarn, HDFS, GPFS, Databricks  
 - **Databases & Management:** Microsoft SQL Server, SSMS, Excel, NoSQL (Cassandra), Neo4j  
 - **Tools & IDEs:** Jupyter Notebook, RStudio, IntelliJ IDEA, VSCode, Power BI  
-
+-->
 ---
 
 ### Core Competencies  
